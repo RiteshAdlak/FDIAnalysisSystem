@@ -1,0 +1,8 @@
+It is Database Management System which has two privilege levels : 
+1.User level :
+ Provided for  only analysis using "Graphs" and comparing the economy of states of India.
+2.Admin level :
+ Feeds the economy of states and is provided with features (like Insert , Update , Delete of states and their fields ).
+
+Technology : C# 
+Database.     : MongoDB
